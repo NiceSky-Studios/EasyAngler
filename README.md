@@ -3,7 +3,7 @@
 A macOS app that automates the **Angler quest** in Fisch. It talks to the Angler, accepts the job,
 reads which fish is wanted, finds it in your backpack, and hands it over, then repeats on a cooldown.
  
-**Version 1.0.0** · macOS 14 or later · see [CHANGELOG.md](CHANGELOG.md) for the update log
+**Version 1.0.0** · macOS 14 or later
  
 ## How it works
  
